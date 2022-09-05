@@ -1,0 +1,658 @@
+district,district_id,state_id
+jalgaon,MH_Jalgaon,MH
+kutch,GJ_Kutch,GJ
+parbhani,MH_Parbhani,MH
+coimbatore,TN_Coimbatore,TN
+haridwar,UT_Haridwar,UT
+karimnagar,TG_Karimnagar,TG
+idukki,KL_Idukki,KL
+y.s.r. kadapa,AP_Y.S.R. Kadapa,AP
+pali,RJ_Pali,RJ
+tirap,AR_Tirap,AR
+muzaffarnagar,UP_Muzaffarnagar,UP
+anantnag,JK_Anantnag,JK
+bhiwani,HR_Bhiwani,HR
+imphal west,MN_Imphal West,MN
+thiruvallur,TN_Thiruvallur,TN
+akola,MH_Akola,MH
+navsari,GJ_Navsari,GJ
+ludhiana,PB_Ludhiana,PB
+betul,MP_Betul,MP
+kallakurichi,TN_Kallakurichi,TN
+dungarpur,RJ_Dungarpur,RJ
+howrah,WB_Howrah,WB
+jamui,BR_Jamui,BR
+bidar,KA_Bidar,KA
+karnal,HR_Karnal,HR
+satna,MP_Satna,MP
+hoshiarpur,PB_Hoshiarpur,PB
+chandauli,UP_Chandauli,UP
+kullu,HP_Kullu,HP
+khargone,MP_Khargone,MP
+mahabubnagar,TG_Mahabubnagar,TG
+jalpaiguri,WB_Jalpaiguri,WB
+karimganj,AS_Karimganj,AS
+jogulamba gadwal,TG_Jogulamba Gadwal,TG
+imphal east,MN_Imphal East,MN
+west karbi anglong,AS_West Karbi Anglong,AS
+khunti,JH_Khunti,JH
+ghaziabad,UP_Ghaziabad,UP
+jamnagar,GJ_Jamnagar,GJ
+hamirpur,HP_Hamirpur,HP
+jaisalmer,RJ_Jaisalmer,RJ
+sukma,CT_Sukma,CT
+devbhumi dwarka,GJ_Devbhumi Dwarka,GJ
+anjaw,AR_Anjaw,AR
+warangal rural,TG_Warangal Rural,TG
+panipat,HR_Panipat,HR
+kamrup,AS_Kamrup,AS
+kondagaon,CT_Kondagaon,CT
+salem,TN_Salem,TN
+perambalur,TN_Perambalur,TN
+nalgonda,TG_Nalgonda,TG
+bhilwara,RJ_Bhilwara,RJ
+gurugram,HR_Gurugram,HR
+paschim bardhaman,WB_Paschim Bardhaman,WB
+south tripura,TR_South Tripura,TR
+vizianagaram,AP_Vizianagaram,AP
+koraput,OR_Koraput,OR
+shivpuri,MP_Shivpuri,MP
+kulgam,JK_Kulgam,JK
+senapati,MN_Senapati,MN
+vellore,TN_Vellore,TN
+ariyalur,TN_Ariyalur,TN
+ramanagara,KA_Ramanagara,KA
+dima hasao,AS_Dima Hasao,AS
+gadchiroli,MH_Gadchiroli,MH
+lakhimpur,AS_Lakhimpur,AS
+kurukshetra,HR_Kurukshetra,HR
+north garo hills,ML_North Garo Hills,ML
+dindori,MP_Dindori,MP
+jashpur,CT_Jashpur,CT
+srikakulam,AP_Srikakulam,AP
+hazaribagh,JH_Hazaribagh,JH
+dhanbad,JH_Dhanbad,JH
+west jaintia hills,ML_West Jaintia Hills,ML
+nagpur,MH_Nagpur,MH
+alipurduar,WB_Alipurduar,WB
+daman,DN_Daman,DN
+jamtara,JH_Jamtara,JH
+hailakandi,AS_Hailakandi,AS
+bhandara,MH_Bhandara,MH
+jhajjar,HR_Jhajjar,HR
+singrauli,MP_Singrauli,MP
+bijnor,UP_Bijnor,UP
+sant kabir nagar,UP_Sant Kabir Nagar,UP
+faridkot,PB_Faridkot,PB
+lakhisarai,BR_Lakhisarai,BR
+kamrup metropolitan,AS_Kamrup Metropolitan,AS
+kamareddy,TG_Kamareddy,TG
+simdega,JH_Simdega,JH
+upper dibang valley,AR_Upper Dibang Valley,AR
+chandigarh,CH_Chandigarh,CH
+wardha,MH_Wardha,MH
+gwalior,MP_Gwalior,MP
+hassan,KA_Hassan,KA
+hingoli,MH_Hingoli,MH
+theni,TN_Theni,TN
+janjgir champa,CT_Janjgir Champa,CT
+puducherry,PY_Puducherry,PY
+kasaragod,KL_Kasaragod,KL
+mahasamund,CT_Mahasamund,CT
+pudukkottai,TN_Pudukkottai,TN
+sirmaur,HP_Sirmaur,HP
+surat,GJ_Surat,GJ
+kishanganj,BR_Kishanganj,BR
+rajnandgaon,CT_Rajnandgaon,CT
+davanagere,KA_Davanagere,KA
+jhargram,WB_Jhargram,WB
+kollam,KL_Kollam,KL
+valsad,GJ_Valsad,GJ
+kiphire,NL_Kiphire,NL
+dhemaji,AS_Dhemaji,AS
+dhubri,AS_Dhubri,AS
+pune,MH_Pune,MH
+west sikkim,SK_West Sikkim,SK
+katni,MP_Katni,MP
+uttar dinajpur,WB_Uttar Dinajpur,WB
+firozabad,UP_Firozabad,UP
+munger,BR_Munger,BR
+west khasi hills,ML_West Khasi Hills,ML
+west garo hills,ML_West Garo Hills,ML
+yavatmal,MH_Yavatmal,MH
+dibrugarh,AS_Dibrugarh,AS
+bhadradri kothagudem,TG_Bhadradri Kothagudem,TG
+kushinagar,UP_Kushinagar,UP
+una,HP_Una,HP
+saran,BR_Saran,BR
+sundargarh,OR_Sundargarh,OR
+s.a.s. nagar,PB_S.A.S. Nagar,PB
+sindhudurg,MH_Sindhudurg,MH
+murshidabad,WB_Murshidabad,WB
+papum pare,AR_Papum Pare,AR
+balrampur,CT_Balrampur,CT
+mirzapur,UP_Mirzapur,UP
+sheohar,BR_Sheohar,BR
+bareilly,UP_Bareilly,UP
+jaipur,RJ_Jaipur,RJ
+jhalawar,RJ_Jhalawar,RJ
+dimapur,NL_Dimapur,NL
+uttar bastar kanker,CT_Uttar Bastar Kanker,CT
+kanyakumari,TN_Kanyakumari,TN
+jiribam,MN_Jiribam,MN
+aligarh,UP_Aligarh,UP
+rohtas,BR_Rohtas,BR
+srinagar,JK_Srinagar,JK
+washim,MH_Washim,MH
+kaushambi,UP_Kaushambi,UP
+anantapur,AP_Anantapur,AP
+adilabad,TG_Adilabad,TG
+sirsa,HR_Sirsa,HR
+sonitpur,AS_Sonitpur,AS
+south west garo hills,ML_South West Garo Hills,ML
+bhavnagar,GJ_Bhavnagar,GJ
+east godavari,AP_East Godavari,AP
+supaul,BR_Supaul,BR
+purnia,BR_Purnia,BR
+udhampur,JK_Udhampur,JK
+barabanki,UP_Barabanki,UP
+kendujhar,OR_Kendujhar,OR
+sehore,MP_Sehore,MP
+bijapur,CT_Bijapur,CT
+ghazipur,UP_Ghazipur,UP
+karaikal,PY_Karaikal,PY
+solapur,MH_Solapur,MH
+sagar,MP_Sagar,MP
+hathras,UP_Hathras,UP
+gadag,KA_Gadag,KA
+bharatpur,RJ_Bharatpur,RJ
+bhind,MP_Bhind,MP
+sitapur,UP_Sitapur,UP
+chitradurga,KA_Chitradurga,KA
+ganganagar,RJ_Ganganagar,RJ
+surajpur,CT_Surajpur,CT
+champawat,UT_Champawat,UT
+madhubani,BR_Madhubani,BR
+lucknow,UP_Lucknow,UP
+vaishali,BR_Vaishali,BR
+nanded,MH_Nanded,MH
+tehri garhwal,UT_Tehri Garhwal,UT
+mungeli,CT_Mungeli,CT
+sangrur,PB_Sangrur,PB
+dharwad,KA_Dharwad,KA
+alappuzha,KL_Alappuzha,KL
+balangir,OR_Balangir,OR
+raigad,MH_Raigad,MH
+banswara,RJ_Banswara,RJ
+mulugu,TG_Mulugu,TG
+east singhbhum,JH_East Singhbhum,JH
+charkhi dadri,HR_Charkhi Dadri,HR
+bhadrak,OR_Bhadrak,OR
+ranchi,JH_Ranchi,JH
+krishna,AP_Krishna,AP
+patna,BR_Patna,BR
+varanasi,UP_Varanasi,UP
+kozhikode,KL_Kozhikode,KL
+medak,TG_Medak,TG
+tarn taran,PB_Tarn Taran,PB
+nuapada,OR_Nuapada,OR
+panna,MP_Panna,MP
+delhi,DL_Delhi,DL
+tengnoupal,MN_Tengnoupal,MN
+harda,MP_Harda,MP
+bandipora,JK_Bandipora,JK
+nagaon,AS_Nagaon,AS
+shamli,UP_Shamli,UP
+mon,NL_Mon,NL
+seoni,MP_Seoni,MP
+ramanathapuram,TN_Ramanathapuram,TN
+nabarangapur,OR_Nabarangapur,OR
+rewari,HR_Rewari,HR
+ahmedabad,GJ_Ahmedabad,GJ
+narmada,GJ_Narmada,GJ
+raigarh,CT_Raigarh,CT
+saharsa,BR_Saharsa,BR
+chirang,AS_Chirang,AS
+guna,MP_Guna,MP
+thane,MH_Thane,MH
+charaideo,AS_Charaideo,AS
+baksa,AS_Baksa,AS
+vadodara,GJ_Vadodara,GJ
+kangpokpi,MN_Kangpokpi,MN
+rupnagar,PB_Rupnagar,PB
+south west khasi hills,ML_South West Khasi Hills,ML
+bhagalpur,BR_Bhagalpur,BR
+rampur,UP_Rampur,UP
+shi yomi,AR_Shi Yomi,AR
+kaimur,BR_Kaimur,BR
+kalimpong,WB_Kalimpong,WB
+bargarh,OR_Bargarh,OR
+lepa rada,AR_Lepa Rada,AR
+sivasagar,AS_Sivasagar,AS
+visakhapatnam,AP_Visakhapatnam,AP
+tiruppur,TN_Tiruppur,TN
+fazilka,PB_Fazilka,PB
+jalna,MH_Jalna,MH
+ambedkar nagar,UP_Ambedkar Nagar,UP
+pathankot,PB_Pathankot,PB
+bokaro,JH_Bokaro,JH
+bundi,RJ_Bundi,RJ
+dhar,MP_Dhar,MP
+panchkula,HR_Panchkula,HR
+jind,HR_Jind,HR
+aurangabad,BR_Aurangabad,BR
+osmanabad,MH_Osmanabad,MH
+west singhbhum,JH_West Singhbhum,JH
+south garo hills,ML_South Garo Hills,ML
+madurai,TN_Madurai,TN
+kanpur nagar,UP_Kanpur Nagar,UP
+barwani,MP_Barwani,MP
+phek,NL_Phek,NL
+khagaria,BR_Khagaria,BR
+udham singh nagar,UT_Udham Singh Nagar,UT
+thanjavur,TN_Thanjavur,TN
+kendrapara,OR_Kendrapara,OR
+kishtwar,JK_Kishtwar,JK
+punch,JK_Punch,JK
+malda,WB_Malda,WB
+unokoti,TR_Unokoti,TR
+kodagu,KA_Kodagu,KA
+ribhoi,ML_Ribhoi,ML
+barmer,RJ_Barmer,RJ
+chatra,JH_Chatra,JH
+datia,MP_Datia,MP
+hapur,UP_Hapur,UP
+east sikkim,SK_East Sikkim,SK
+goalpara,AS_Goalpara,AS
+dahod,GJ_Dahod,GJ
+mathura,UP_Mathura,UP
+kalaburagi,KA_Kalaburagi,KA
+ganderbal,JK_Ganderbal,JK
+hyderabad,TG_Hyderabad,TG
+tikamgarh,MP_Tikamgarh,MP
+kohima,NL_Kohima,NL
+pulwama,JK_Pulwama,JK
+south 24 parganas,WB_South 24 Parganas,WB
+dausa,RJ_Dausa,RJ
+buxar,BR_Buxar,BR
+patiala,PB_Patiala,PB
+agar malwa,MP_Agar Malwa,MP
+sikar,RJ_Sikar,RJ
+pilibhit,UP_Pilibhit,UP
+katihar,BR_Katihar,BR
+ramban,JK_Ramban,JK
+south salmara mankachar,AS_South Salmara Mankachar,AS
+udupi,KA_Udupi,KA
+warangal urban,TG_Warangal Urban,TG
+ahmednagar,MH_Ahmednagar,MH
+damoh,MP_Damoh,MP
+ashoknagar,MP_Ashoknagar,MP
+gomati,TR_Gomati,TR
+north 24 parganas,WB_North 24 Parganas,WB
+baghpat,UP_Baghpat,UP
+lahaul and spiti,HP_Lahaul and Spiti,HP
+balod,CT_Balod,CT
+thoubal,MN_Thoubal,MN
+sangli,MH_Sangli,MH
+darbhanga,BR_Darbhanga,BR
+latur,MH_Latur,MH
+morena,MP_Morena,MP
+darjeeling,WB_Darjeeling,WB
+durg,CT_Durg,CT
+rohtak,HR_Rohtak,HR
+narayanpet,TG_Narayanpet,TG
+lower subansiri,AR_Lower Subansiri,AR
+anand,GJ_Anand,GJ
+chennai,TN_Chennai,TN
+alwar,RJ_Alwar,RJ
+jalaun,UP_Jalaun,UP
+mandya,KA_Mandya,KA
+mokokchung,NL_Mokokchung,NL
+muzaffarpur,BR_Muzaffarpur,BR
+jammu,JK_Jammu,JK
+giridih,JH_Giridih,JH
+gurdaspur,PB_Gurdaspur,PB
+dadra and nagar haveli,DN_Dadra and Nagar Haveli,DN
+amethi,UP_Amethi,UP
+cuttack,OR_Cuttack,OR
+saiha,MZ_Saiha,MZ
+kamle,AR_Kamle,AR
+karur,TN_Karur,TN
+upper subansiri,AR_Upper Subansiri,AR
+birbhum,WB_Birbhum,WB
+rudraprayag,UT_Rudraprayag,UT
+mahabubabad,TG_Mahabubabad,TG
+botad,GJ_Botad,GJ
+sidhi,MP_Sidhi,MP
+wayanad,KL_Wayanad,KL
+longleng,NL_Longleng,NL
+ranga reddy,TG_Ranga Reddy,TG
+dhalai,TR_Dhalai,TR
+jharsuguda,OR_Jharsuguda,OR
+prakasam,AP_Prakasam,AP
+amravati,MH_Amravati,MH
+mainpuri,UP_Mainpuri,UP
+rewa,MP_Rewa,MP
+jalandhar,PB_Jalandhar,PB
+bengaluru rural,KA_Bengaluru Rural,KA
+saharanpur,UP_Saharanpur,UP
+bhopal,MP_Bhopal,MP
+lower siang,AR_Lower Siang,AR
+fatehgarh sahib,PB_Fatehgarh Sahib,PB
+tirunelveli,TN_Tirunelveli,TN
+udalguri,AS_Udalguri,AS
+krishnagiri,TN_Krishnagiri,TN
+reasi,JK_Reasi,JK
+dindigul,TN_Dindigul,TN
+west kameng,AR_West Kameng,AR
+chitrakoot,UP_Chitrakoot,UP
+kottayam,KL_Kottayam,KL
+jehanabad,BR_Jehanabad,BR
+dumka,JH_Dumka,JH
+satara,MH_Satara,MH
+raichur,KA_Raichur,KA
+mahe,PY_Mahe,PY
+yamunanagar,HR_Yamunanagar,HR
+mansa,PB_Mansa,PB
+siddipet,TG_Siddipet,TG
+changlang,AR_Changlang,AR
+east jaintia hills,ML_East Jaintia Hills,ML
+chamoli,UT_Chamoli,UT
+kurung kumey,AR_Kurung Kumey,AR
+farrukhabad,UP_Farrukhabad,UP
+mayurbhanj,OR_Mayurbhanj,OR
+bastar,CT_Bastar,CT
+khowai,TR_Khowai,TR
+ganjam,OR_Ganjam,OR
+chikkamagaluru,KA_Chikkamagaluru,KA
+kolhapur,MH_Kolhapur,MH
+uttara kannada,KA_Uttara Kannada,KA
+tapi,GJ_Tapi,GJ
+kanpur dehat,UP_Kanpur Dehat,UP
+jhunjhunu,RJ_Jhunjhunu,RJ
+moga,PB_Moga,PB
+gir somnath,GJ_Gir Somnath,GJ
+samastipur,BR_Samastipur,BR
+gajapati,OR_Gajapati,OR
+chandel,MN_Chandel,MN
+hanumangarh,RJ_Hanumangarh,RJ
+north tripura,TR_North Tripura,TR
+bankura,WB_Bankura,WB
+raisen,MP_Raisen,MP
+bengaluru urban,KA_Bengaluru Urban,KA
+hardoi,UP_Hardoi,UP
+wanaparthy,TG_Wanaparthy,TG
+tuensang,NL_Tuensang,NL
+udaipur,RJ_Udaipur,RJ
+dewas,MP_Dewas,MP
+shimla,HP_Shimla,HP
+gariaband,CT_Gariaband,CT
+bagalkote,KA_Bagalkote,KA
+mandsaur,MP_Mandsaur,MP
+gonda,UP_Gonda,UP
+malkangiri,OR_Malkangiri,OR
+doda,JK_Doda,JK
+gautam buddha nagar,UP_Gautam Buddha Nagar,UP
+namsai,AR_Namsai,AR
+dhamtari,CT_Dhamtari,CT
+viluppuram,TN_Viluppuram,TN
+wokha,NL_Wokha,NL
+budaun,UP_Budaun,UP
+banka,BR_Banka,BR
+mancherial,TG_Mancherial,TG
+noney,MN_Noney,MN
+north goa,GA_North Goa,GA
+raipur,CT_Raipur,CT
+junagadh,GJ_Junagadh,GJ
+bathinda,PB_Bathinda,PB
+puri,OR_Puri,OR
+dakshin bastar dantewada,CT_Dakshin Bastar Dantewada,CT
+deoghar,JH_Deoghar,JH
+araria,BR_Araria,BR
+jangaon,TG_Jangaon,TG
+moradabad,UP_Moradabad,UP
+nirmal,TG_Nirmal,TG
+shahdara,DL_Shahdara,DL
+umaria,MP_Umaria,MP
+tonk,RJ_Tonk,RJ
+west siang,AR_West Siang,AR
+fatehabad,HR_Fatehabad,HR
+gorakhpur,UP_Gorakhpur,UP
+koppal,KA_Koppal,KA
+sheikhpura,BR_Sheikhpura,BR
+ajmer,RJ_Ajmer,RJ
+peren,NL_Peren,NL
+etawah,UP_Etawah,UP
+tamenglong,MN_Tamenglong,MN
+unnao,UP_Unnao,UP
+siang,AR_Siang,AR
+chikkaballapura,KA_Chikkaballapura,KA
+north sikkim,SK_North Sikkim,SK
+ujjain,MP_Ujjain,MP
+kalahandi,OR_Kalahandi,OR
+hojai,AS_Hojai,AS
+madhepura,BR_Madhepura,BR
+shahjahanpur,UP_Shahjahanpur,UP
+pithoragarh,UT_Pithoragarh,UT
+paschim medinipur,WB_Paschim Medinipur,WB
+lower dibang valley,AR_Lower Dibang Valley,AR
+pherzawl,MN_Pherzawl,MN
+virudhunagar,TN_Virudhunagar,TN
+latehar,JH_Latehar,JH
+dakshin dinajpur,WB_Dakshin Dinajpur,WB
+jabalpur,MP_Jabalpur,MP
+east kameng,AR_East Kameng,AR
+barpeta,AS_Barpeta,AS
+kheda,GJ_Kheda,GJ
+thiruvarur,TN_Thiruvarur,TN
+kasganj,UP_Kasganj,UP
+meerut,UP_Meerut,UP
+basti,UP_Basti,UP
+south sikkim,SK_South Sikkim,SK
+nainital,UT_Nainital,UT
+bongaigaon,AS_Bongaigaon,AS
+darrang,AS_Darrang,AS
+ernakulam,KL_Ernakulam,KL
+mysuru,KA_Mysuru,KA
+chhatarpur,MP_Chhatarpur,MP
+bishnupur,MN_Bishnupur,MN
+guntur,AP_Guntur,AP
+lohit,AR_Lohit,AR
+fatehpur,UP_Fatehpur,UP
+thiruvananthapuram,KL_Thiruvananthapuram,KL
+alirajpur,MP_Alirajpur,MP
+pratapgarh,RJ_Pratapgarh,RJ
+sahibganj,JH_Sahibganj,JH
+east khasi hills,ML_East Khasi Hills,ML
+nadia,WB_Nadia,WB
+mamit,MZ_Mamit,MZ
+kathua,JK_Kathua,JK
+palwal,HR_Palwal,HR
+almora,UT_Almora,UT
+nayagarh,OR_Nayagarh,OR
+karauli,RJ_Karauli,RJ
+lawngtlai,MZ_Lawngtlai,MZ
+gumla,JH_Gumla,JH
+dhule,MH_Dhule,MH
+mahoba,UP_Mahoba,UP
+prayagraj,UP_Prayagraj,UP
+rayagada,OR_Rayagada,OR
+neemuch,MP_Neemuch,MP
+pauri garhwal,UT_Pauri Garhwal,UT
+jodhpur,RJ_Jodhpur,RJ
+garhwa,JH_Garhwa,JH
+longding,AR_Longding,AR
+godda,JH_Godda,JH
+uttarkashi,UT_Uttarkashi,UT
+aravalli,GJ_Aravalli,GJ
+begusarai,BR_Begusarai,BR
+kolkata,WB_Kolkata,WB
+mahendragarh,HR_Mahendragarh,HR
+dehradun,UT_Dehradun,UT
+rajgarh,MP_Rajgarh,MP
+deoria,UP_Deoria,UP
+dharmapuri,TN_Dharmapuri,TN
+kolar,KA_Kolar,KA
+shahid bhagat singh nagar,PB_Shahid Bhagat Singh Nagar,PB
+rajsamand,RJ_Rajsamand,RJ
+jhansi,UP_Jhansi,UP
+amreli,GJ_Amreli,GJ
+morbi,GJ_Morbi,GJ
+sri muktsar sahib,PB_Sri Muktsar Sahib,PB
+kupwara,JK_Kupwara,JK
+shahdol,MP_Shahdol,MP
+peddapalli,TG_Peddapalli,TG
+dang,GJ_Dang,GJ
+nilgiris,TN_Nilgiris,TN
+south goa,GA_South Goa,GA
+palghar,MH_Palghar,MH
+jayashankar bhupalapally,TG_Jayashankar Bhupalapally,TG
+kannauj,UP_Kannauj,UP
+lunglei,MZ_Lunglei,MZ
+namakkal,TN_Namakkal,TN
+sambhal,UP_Sambhal,UP
+chamba,HP_Chamba,HP
+bikaner,RJ_Bikaner,RJ
+zunheboto,NL_Zunheboto,NL
+saraikela-kharsawan,JH_Saraikela-Kharsawan,JH
+kokrajhar,AS_Kokrajhar,AS
+anuppur,MP_Anuppur,MP
+bulandshahr,UP_Bulandshahr,UP
+karbi anglong,AS_Karbi Anglong,AS
+nalbari,AS_Nalbari,AS
+churu,RJ_Churu,RJ
+siwan,BR_Siwan,BR
+vikarabad,TG_Vikarabad,TG
+balaghat,MP_Balaghat,MP
+mumbai,MH_Mumbai,MH
+diu,DN_Diu,DN
+west tripura,TR_West Tripura,TR
+kandhamal,OR_Kandhamal,OR
+nagapattinam,TN_Nagapattinam,TN
+dakshina kannada,KA_Dakshina Kannada,KA
+faridabad,HR_Faridabad,HR
+barnala,PB_Barnala,PB
+komaram bheem,TG_Komaram Bheem,TG
+arwal,BR_Arwal,BR
+korba,CT_Korba,CT
+s.p.s. nellore,AP_S.P.S. Nellore,AP
+koriya,CT_Koriya,CT
+serchhip,MZ_Serchhip,MZ
+sabarkantha,GJ_Sabarkantha,GJ
+malappuram,KL_Malappuram,KL
+gopalganj,BR_Gopalganj,BR
+ambala,HR_Ambala,HR
+chandrapur,MH_Chandrapur,MH
+amritsar,PB_Amritsar,PB
+sangareddy,TG_Sangareddy,TG
+baran,RJ_Baran,RJ
+mahisagar,GJ_Mahisagar,GJ
+jalore,RJ_Jalore,RJ
+auraiya,UP_Auraiya,UP
+rae bareli,UP_Rae Bareli,UP
+khammam,TG_Khammam,TG
+west godavari,AP_West Godavari,AP
+dhenkanal,OR_Dhenkanal,OR
+rajanna sircilla,TG_Rajanna Sircilla,TG
+kolasib,MZ_Kolasib,MZ
+azamgarh,UP_Azamgarh,UP
+sitamarhi,BR_Sitamarhi,BR
+nashik,MH_Nashik,MH
+samba,JK_Samba,JK
+chhota udaipur,GJ_Chhota Udaipur,GJ
+etah,UP_Etah,UP
+vidisha,MP_Vidisha,MP
+nawada,BR_Nawada,BR
+kurnool,AP_Kurnool,AP
+erode,TN_Erode,TN
+purba bardhaman,WB_Purba Bardhaman,WB
+bilaspur,CT_Bilaspur,CT
+banda,UP_Banda,UP
+chittoor,AP_Chittoor,AP
+bageshwar,UT_Bageshwar,UT
+kangra,HP_Kangra,HP
+sonipat,HR_Sonipat,HR
+ratnagiri,MH_Ratnagiri,MH
+east siang,AR_East Siang,AR
+kra daadi,AR_Kra Daadi,AR
+suryapet,TG_Suryapet,TG
+hisar,HR_Hisar,HR
+sonbhadra,UP_Sonbhadra,UP
+nalanda,BR_Nalanda,BR
+hoshangabad,MP_Hoshangabad,MP
+kamjong,MN_Kamjong,MN
+cuddalore,TN_Cuddalore,TN
+chittorgarh,RJ_Chittorgarh,RJ
+khordha,OR_Khordha,OR
+jaunpur,UP_Jaunpur,UP
+yadadri bhuvanagiri,TG_Yadadri Bhuvanagiri,TG
+siddharthnagar,UP_Siddharthnagar,UP
+nagarkurnool,TG_Nagarkurnool,TG
+west champaran,BR_West Champaran,BR
+tinsukia,AS_Tinsukia,AS
+kinnaur,HP_Kinnaur,HP
+mandi,HP_Mandi,HP
+sawai madhopur,RJ_Sawai Madhopur,RJ
+nagaur,RJ_Nagaur,RJ
+chhindwara,MP_Chhindwara,MP
+cachar,AS_Cachar,AS
+patan,GJ_Patan,GJ
+kapurthala,PB_Kapurthala,PB
+rajkot,GJ_Rajkot,GJ
+sivaganga,TN_Sivaganga,TN
+leh,LA_Leh,LA
+khandwa,MP_Khandwa,MP
+sambalpur,OR_Sambalpur,OR
+east garo hills,ML_East Garo Hills,ML
+thrissur,KL_Thrissur,KL
+east champaran,BR_East Champaran,BR
+nuh,HR_Nuh,HR
+sultanpur,UP_Sultanpur,UP
+purba medinipur,WB_Purba Medinipur,WB
+panchmahal,GJ_Panchmahal,GJ
+gandhinagar,GJ_Gandhinagar,GJ
+porbandar,GJ_Porbandar,GJ
+jagtial,TG_Jagtial,TG
+jorhat,AS_Jorhat,AS
+surendranagar,GJ_Surendranagar,GJ
+mau,UP_Mau,UP
+jhabua,MP_Jhabua,MP
+buldhana,MH_Buldhana,MH
+churachandpur,MN_Churachandpur,MN
+banaskantha,GJ_Banaskantha,GJ
+solan,HP_Solan,HP
+agra,UP_Agra,UP
+lohardaga,JH_Lohardaga,JH
+narayanpur,CT_Narayanpur,CT
+bhojpur,BR_Bhojpur,BR
+surguja,CT_Surguja,CT
+burhanpur,MP_Burhanpur,MP
+upper siang,AR_Upper Siang,AR
+ratlam,MP_Ratlam,MP
+sheopur,MP_Sheopur,MP
+shajapur,MP_Shajapur,MP
+nizamabad,TG_Nizamabad,TG
+baloda bazar,CT_Baloda Bazar,CT
+kaithal,HR_Kaithal,HR
+palamu,JH_Palamu,JH
+ukhrul,MN_Ukhrul,MN
+kannur,KL_Kannur,KL
+sirohi,RJ_Sirohi,RJ
+golaghat,AS_Golaghat,AS
+ramgarh,JH_Ramgarh,JH
+kakching,MN_Kakching,MN
+bharuch,GJ_Bharuch,GJ
+kota,RJ_Kota,RJ
+tawang,AR_Tawang,AR
+lalitpur,UP_Lalitpur,UP
+lakhimpur kheri,UP_Lakhimpur Kheri,UP
+haveri,KA_Haveri,KA
+indore,MP_Indore,MP
+bahraich,UP_Bahraich,UP
+gaya,BR_Gaya,BR
+ballia,UP_Ballia,UP
+majuli,AS_Majuli,AS
+mandla,MP_Mandla,MP
+kargil,LA_Kargil,LA
+pakke kessang,AR_Pakke Kessang,AR
+champhai,MZ_Champhai,MZ
