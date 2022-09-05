@@ -1,0 +1,19 @@
+#!/bin/bash
+echo "Problem1"
+python3 question1_trial2.py
+echo "Problem2"
+python3 question2_trial1.py
+echo "Problem3"
+python3 question3_trial1.py
+echo "Problem4"
+python3 question4_trial1.py
+echo "Problem5"
+python3 question5_trial1.py
+echo "Problem6"
+python3 question6_trial1.py
+echo "Problem7"
+python3 question7_trial1.py
+echo "Problem8"
+python3 question8_trial1.py
+echo "Problem9"
+python3 question9_trial1.py
